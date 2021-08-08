@@ -1,0 +1,41 @@
+#main .navbar .main-ul{
+  display: none;
+}
+.btn
+{
+  padding:0.10rem 1.5rem;
+  font-weight: bold;
+}
+.headings{
+  font-size: 1.5rem;
+}
+#main .navbar .main-ul{
+  display: none;
+}
+.showcase .left-showcase h3 {
+  font-size: 1.3rem;
+}
+.collaboration img{
+  max-width: 325px;
+}
+.collaboration p{
+  font-size: 0.8rem;
+}
+.about p {
+  font-size: 1rem;
+}
+.contact p {
+  font-size: 1rem;
+}
+.leverage .section1-a a {
+  font-size: 1.2rem;
+}
+.contact form input {
+  width: 23rem;
+}
+.contact form textarea {
+  width: 23rem;
+}
+.leverage .section1-main-div  .section1-right-div img{
+  left: 15px;
+}

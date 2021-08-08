@@ -1,0 +1,29 @@
+#main .navbar .main-ul{
+  display: none;
+}
+.btn{
+  padding:0.18rem 1.9rem;
+  font-weight: bold;
+}
+.headings{
+  font-size: 1.8rem;
+}
+#main .navbar .main-ul{
+  display: none;
+}
+.collaboration img{
+  max-width: 480px;
+}
+.collaboration p{
+  font-size: 1rem;
+}
+.about p {
+  font-size: 1.2rem;
+}
+.contact p {
+ font-size: 1.2rem;
+}
+.footer .footermain{
+  display: flex;
+  flex-direction: column;
+}
